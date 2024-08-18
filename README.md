@@ -54,11 +54,11 @@ Once set up, you can use the application by navigating to the user or seller das
 
 We welcome contributions to enhance the platform! To contribute:
 
-- **Fork the repository
-- **Create a new branch for your feature or bug fix
-- **Make your changes and commit them with descriptive messages
-- **Push your changes to your fork
-- **Open a pull request to merge your changes into the main repository
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Make your changes and commit them with descriptive messages
+- Push your changes to your fork
+- Open a pull request to merge your changes into the main repository
   
 ## 📝 License
 
