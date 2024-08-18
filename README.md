@@ -65,10 +65,6 @@ We welcome contributions to enhance the platform! To contribute:
 - Make your changes and commit them with descriptive messages
 - Push your changes to your fork
 - Open a pull request to merge your changes into the main repository
-  
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 📧 Contact
 
