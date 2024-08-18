@@ -4,7 +4,8 @@ Welcome to the **Vehicle Rental Services** project! This platform is designed to
 
 ## Important Links
 
-- Deploy Link : [Vehicle Rental Services](https://www.fusycoder.freewebhostmost.com)
+- Deploy Link : User Dashboard : [Vehicle Rental Services](https://www.fusycoder.freewebhostmost.com)
+- Deploy Link : Seller Dashboard : [Vehicle Rental Services](https://www.fusycoder.freewebhostmost.com/seller)
 - Code Explain Video Link : [Vehicle Rental Services](https://drive.google.com/drive/folders/1_Q0LjcQ9dCuKYVRqHgof8OW2piEuTChT?usp=sharing)
 
 
